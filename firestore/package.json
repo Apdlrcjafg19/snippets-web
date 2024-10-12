@@ -7,7 +7,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "firebase": "^8.10.0",
-    "geofire-common": "^5.1.0"
+    "geofire-common": "^6.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.12",
